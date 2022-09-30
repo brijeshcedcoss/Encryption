@@ -160,5 +160,5 @@ function output() {
       val += v;
     }
   }
-  document.getElementById("output").innerHTML = val;
+
 }
